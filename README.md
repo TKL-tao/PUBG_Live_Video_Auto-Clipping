@@ -1,2 +1,28 @@
 # PUBG_Live_Video_Auto-Clipping
-This is a simple project of automatically  clipping my favorite PUBG live stream moments. The input is a mp4 file of PUBG live video, and the outputs are the funny being killed moments 1 minute videos in folder clipped_videos and the player status visualization in folder Plot_Data.
+## Description
+This is a simple project of automatically  clipping my favorite PUBG live stream moments. The **input** is a mp4 file of PUBG live video, and the **outputs** are the funny 1 minute being killed moments in folder clipped_videos and the player status visualization in folder Plot_Data.
+
+## Necessary python environment
+- python 3.8.18
+- PIL
+- moviepy
+- torch
+- torchvision
+- time
+- datetime
+- numpy
+- pandas
+- sys
+- plotly
+
+## Usage 
+1. Clone this repository to your local directory. For example, `D:/Github_clonespace/PUBG_Live_Video_Auto-Clipping`. 
+
+2. Prepare a PUBG live video of mp4 file. For example, `D:/Download_Videos/PUBG_video.mp4`.
+
+3. Anaconda Prompt
+```{bash}
+activate your_envs_name
+cd
+python main.py 
+```
