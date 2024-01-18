@@ -31,7 +31,10 @@ python main.py D:/Download_Videos/PUBG_video.mp4
 
 ## Outputs
 ### 1 minute being killed moments in folder **clipped_videos**
+
 ![](Usage_Example/Video_output.png)
+
+Yes, I am the bad guy who enjoy watching streamers being killed. 
 
 ### player status visualization in folder **Plot_Data**
 ![](Usage_Example/Figure_output.png)
