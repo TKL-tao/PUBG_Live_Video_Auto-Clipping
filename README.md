@@ -36,3 +36,5 @@ python main.py D:/Download_Videos/PUBG_video.mp4
 ### player status visualization in folder **Plot_Data**
 ![](Usage_Example/Figure_output.png)
 
+## Shortcoming
+Processing a 60-minute video takes about 20 minutes. Because reading frames from a video through moviepy library costs too much time. Hope making an improvement in the future if time permits.
