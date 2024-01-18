@@ -23,6 +23,14 @@ This is a simple project of automatically  clipping my favorite PUBG live stream
 3. Anaconda Prompt
 ```{bash}
 activate your_envs_name
-cd
-python main.py 
+cd D:/Github_clonespace/PUBG_Live_Video_Auto-Clipping
+python main.py D:/Download_Videos/PUBG_video.mp4
 ```
+
+## Outputs
+### 1 minute being killed moments in folder **clipped_videos**
+
+
+### player status visualization in folder **Plot_Data**
+
+
