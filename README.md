@@ -3,7 +3,7 @@
 This is a simple project of automatically  clipping my favorite PUBG live stream moments. The **input** is a mp4 file of PUBG live video, and the **outputs** are the funny 1 minute being killed moments in folder clipped_videos and the player status visualization in folder Plot_Data.
 
 ## Necessary python environment
-- python 3.8.18
+python 3.8.18
 - PIL
 - moviepy
 - torch
