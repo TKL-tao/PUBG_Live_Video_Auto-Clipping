@@ -27,10 +27,12 @@ cd D:/Github_clonespace/PUBG_Live_Video_Auto-Clipping
 python main.py D:/Download_Videos/PUBG_video.mp4
 ```
 
+![](Usage_Example/Command_Line_Output.png){width=100%}
+
 ## Outputs
 ### 1 minute being killed moments in folder **clipped_videos**
-
+![](Usage_Example/Video_output.png){width=100%}
 
 ### player status visualization in folder **Plot_Data**
-
+![](Usage_Example/Figure_output.png){width=100%}
 
