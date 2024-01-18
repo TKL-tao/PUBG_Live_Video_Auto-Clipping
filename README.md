@@ -16,16 +16,18 @@ This is a simple project of automatically  clipping my favorite PUBG live stream
 - plotly
 
 ## Usage 
-1. Clone this repository to your local directory. For example, `D:/Github_clonespace/PUBG_Live_Video_Auto-Clipping`. 
+1. Clone this repository to your local directory. For example, `D:\Github_clonespace\PUBG_Live_Video_Auto-Clipping`. 
 
-2. Prepare a PUBG live video of mp4 file. For example, `D:/Download_Videos/PUBG_video.mp4`.
+2. Prepare a PUBG live video of mp4 file. For example, `D:\Download_Videos\PUBG_video.mp4`.
 
 3. Anaconda Prompt
 ```{bash}
 activate your_envs_name
-cd D:/Github_clonespace/PUBG_Live_Video_Auto-Clipping
+cd D:\Github_clonespace\PUBG_Live_Video_Auto-Clipping
 python main.py D:/Download_Videos/PUBG_video.mp4
 ```
+
+Please kindly note that the last line use slash "/" instead of backslash "\".
 
 ![](Usage_Example/Command_Line_Output.png)
 
