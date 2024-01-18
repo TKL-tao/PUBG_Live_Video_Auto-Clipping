@@ -32,7 +32,7 @@ Please kindly note that the last line use slash "/" instead of backslash "\\".
 ![](Usage_Example/Command_Line_Output.png)
 
 ## Outputs
-### 1 minute being killed moments in folder **clipped_videos**
+### one-minute being killed moments in folder **clipped_videos**
 
 ![](Usage_Example/Video_output.png)
 
