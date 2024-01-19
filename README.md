@@ -27,7 +27,7 @@ cd D:\Github_clonespace\PUBG_Live_Video_Auto-Clipping
 python main.py D:/Download_Videos/PUBG_video.mp4
 ```
 
-Please kindly note that the last line use slash "/" instead of backslash "\\".
+Please kindly note that the last line uses slash "/" instead of backslash "\\".
 
 ![](Usage_Example/Command_Line_Output.png)
 
