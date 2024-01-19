@@ -42,4 +42,4 @@ Yes, I am the bad guy who enjoy watching streamers being killed.
 ![](Usage_Example/Figure_output.png)
 
 ## Shortcoming
-Processing a 60-minute video takes about 10 minutes. Because reading frames from a video through moviepy library costs too much time. Hope making an improvement in the future if time permits.
+Processing a 60-minute video takes about 10 minutes, because reading frames from a video through moviepy library costs too much time. Hope making an improvement in the future if time permits.
